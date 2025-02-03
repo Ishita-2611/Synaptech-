@@ -1,0 +1,5 @@
+brainflow
+mne
+numpy
+scikit-learn
+pynput
