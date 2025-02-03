@@ -60,11 +60,3 @@ python src/main.py
 - Add deep learning-based classification 🧠
 - Expand to more BCI devices 🎧
 
-## 🤝 Contributing
-Feel free to fork, improve, and submit PRs! Let's make BCI control better together. 🚀
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-Happy Hacking! 🚀
