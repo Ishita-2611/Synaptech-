@@ -1,8 +1,14 @@
-from acquisition import acquire_eeg
+import os
+import numpy as np
+import sys
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+from acquisition import acquire_eeg 
 from preprocessing import preprocess_eeg
 from classification import train_model
 from control import control_laptop
-import numpy as np
+
+
+
 
 # Load or train the model
 X = np.random.rand(100, 10)  # Simulated EEG features
